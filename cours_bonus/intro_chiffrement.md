@@ -1,7 +1,5 @@
 # Intro Crypto
 
-# Crypto Intro
-
 - [Intro Crypto](#intro-crypto)
 - [Crypto Intro](#crypto-intro)
   - [I. Encoding](#i-encoding)
